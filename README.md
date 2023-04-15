@@ -1,6 +1,6 @@
 > "Holatroop" est un mini POC développé en React et Firebase, conçu pour faciliter l'implémentation de la méthodologie Holacracy lors des réunions chez Troopers. Il permet la saisie de la tension et la visualisation des indicateurs. Bien que cela ait été un projet rapide, il a suscité l'intérêt des Troopers pour son potentiel à améliorer leur processus de réunion. Note: Il est possible de trouver des noms de commit amusants et des console.log qui trainent encore, car le projet a été développé dans un temps très limité.
 
-> Pour savoir plus : https://marie-gautrons-marvelous-site.webflow.io/project/holatroop-une-application-pour-faciliter-la-methodologie-holacracy-chez-troopers
+> Pour savoir plus : https://marie-gautron.webflow.io/project/holatroop-une-application-pour-faciliter-la-methodologie-holacracy-chez-troopers
 
 # Getting Started with Create React App
 
